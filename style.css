@@ -1,0 +1,26 @@
+
+body {
+	font-size:12pt;
+	color:#333333;
+	font-family: Tahoma, Verdana, Arial, Sans-Serif;
+	background-color: #00cccc;
+}
+.row {
+	margin-bottom:10px;
+}
+.row label {
+	margin-bottom:5px;
+	font-weight:bold;
+	width:280px;
+	display:block;
+}
+.row select {
+	width:300px;
+	font-size:1.1em;
+	border:1px solid #aaaaaa;
+	padding:3px 5px;
+}
+#car_producers_wrapper {
+	width: 310px;
+	margin: 100px auto 0 auto;
+}
